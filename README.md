@@ -4,7 +4,7 @@ This repository contains solutions to various networking-related problems, confi
 
 ## Contents
 
-- **CCNA Labs** – Configuration examples and solutions for Cisco CCNA tasks  
+- **Labs** – Configuration examples and solutions for Cisco CCNA tasks, secondary school and studies   
 - **Troubleshooting** – Common networking issues and their resolutions  
 - **Configurations** – Various networking setups (routing, switching, security, etc.)  
 - **Scripts & Automation** – Useful scripts for network automation and management  
