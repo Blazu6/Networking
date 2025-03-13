@@ -13,6 +13,6 @@ This repository contains solutions to various networking-related problems, confi
 
 Feel free to explore the repository, use the provided configurations, and contribute by suggesting improvements or adding your own solutions.
 
-## License
+## GNS3 Transformation
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+I am in the process of transforming each exercise into a GNS3 environment for better practical understanding and hands-on experience. This will allow you to simulate networking and system administration tasks in a virtualized network environment.
